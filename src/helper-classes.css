@@ -1,0 +1,52 @@
+.blue {
+  color: #086ad9;
+}
+.all-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrap-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bt-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sp-bt {
+  justify-content: space-between;
+}
+.pad {
+  padding: 20px 150px;
+}
+.txt-ct {
+  text-align: center;
+}
+.gp-10 {
+  gap: 10px;
+}
+.gp-20 {
+  gap: 20px;
+}
+.courier-family {
+  font-family: "Courier New", Courier, monospace;
+}
+.white {
+  background-color: #fff;
+}
+.blue {
+  background-color: #086ad9;
+}
+.color-white {
+  color: #fff;
+}
+.color-blue {
+  color: #086ad9;
+}
+.text-white {
+    color: #086ad9;
+}

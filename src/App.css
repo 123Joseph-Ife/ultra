@@ -1,0 +1,28 @@
+header {
+    background-color: #086AD9;
+    width: 100%;
+    padding: 0px 150px;
+}
+header nav ul {
+    gap: 20px;
+}
+header nav ul a {
+    color: #000;
+}
+main {
+    min-height: 100vh;
+}
+.landing-page {
+    padding-top: 50px;
+    padding-inline: 150px;
+    gap: 20px;
+}
+.landing-h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.companies {
+    width: 100%;
+}
+.box {
+    width: 300px;
+}
